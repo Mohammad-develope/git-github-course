@@ -1,7 +1,7 @@
 # Introduction to Git and Github
 ## SciSchool
 
-This is the repo for Git and Github course in SciSchool.
+This is the repo for **Git** and **Github** course in SciSchool.
 
 Topics:
 - Basic Git: add, commit
