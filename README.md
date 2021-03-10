@@ -15,5 +15,5 @@ Topics:
 ## People
 
 First Name | Last Name | Education | Interests
---- | --- | ---
+--- | --- | --- | ---
 Javad | Ebadi | **Physics, PhD** | Physics, Programming, Data Science
