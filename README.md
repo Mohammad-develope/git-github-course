@@ -11,3 +11,9 @@ Topics:
 - Working with remotes
 - Introduction to GitHub
 
+
+## People
+
+First Name | Last Name | Education | Interests
+--- | --- | ---
+Javad | Ebadi | **Physics, PhD** | Physics, Programming, Data Science
