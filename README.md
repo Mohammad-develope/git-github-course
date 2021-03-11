@@ -17,4 +17,4 @@ Topics:
 First Name | Last Name | Education | Interests
 --- | --- | --- | ---
 Javad | Ebadi | **Physics, PhD** | Physics, Programming, Data Science
-Mohammadreza | Ebrahimi | **Physics, M. Sc** | High Energy Physics, Machine Learning, Data Science
+Mohammadreza | Ebrahimi | **Physics, MSc** | High Energy Physics, Machine Learning, Data Science
