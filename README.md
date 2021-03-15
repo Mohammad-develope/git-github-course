@@ -21,3 +21,5 @@ Mohammadreza | Ebrahimi | **Physics, MSc** | High Energy Physics, Machine Learni
 Omid | Hassasfar | **Physics, MSc** | Quantum Mechanics, Open Quantum Systems, Nuclear Physics
 Masoumeh | Tavakoli | **Physics, PhD** | Physics, AdS/CFT, black hole, Dtat Science, python
 Haleh | Hajizadeh | **Physics, MSc** | Astronomy and Cosmology, Data from Telescopes, Programming, Data Science
+Dina | Soltani Tehrani | **Double Majored in Aerospace Eng. and Electrical Eng** | Computational Physics, Numerical Methods, Programming
+
