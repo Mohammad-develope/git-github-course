@@ -20,3 +20,4 @@ Javad | Ebadi | **Physics, PhD** | Physics, Programming, Data Science
 Mohammadreza | Ebrahimi | **Physics, MSc** | High Energy Physics, Machine Learning, Data Science
 Omid | Hassasfar | **Physics, MSc** | Quantum Mechanics, Open Quantum Systems, Nuclear Physics
 Masoumeh | Tavakoli | **Physics, PhD** | Physics, AdS/CFT, black hole, Dtat Science, python
+Sajjad | Mahdizadeh | **PhD candidate** | Experimental Physics, Telescopes, Astronomy
