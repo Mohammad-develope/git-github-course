@@ -25,4 +25,4 @@ Haleh | Hajizadeh | **Physics, MSc** | Astronomy and Cosmology, Data from Telesc
 Dina | Soltani Tehrani | **Double Majored in Aerospace Eng. and Electrical Eng** | Computational Physics, Numerical Methods, Programming
 Ali | Dehparvari | **Aerospace, MSc** | Aerospace, python, , Structural analysis, Vibration
 Sajjad | Mahdizadeh | **PhD candidate** | Experimental Physics, Telescopes, Astronomy
-Hajar | Vakili | **Physics,PhD** | Cosmology, Astrophysics,Data Science |
+Hajar | Vakili | **Physics,PhD** | Cosmology, Astrophysics, Data Science |
