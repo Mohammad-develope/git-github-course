@@ -26,3 +26,4 @@ Dina | Soltani Tehrani | **Double Majored in Aerospace Eng. and Electrical Eng**
 Ali | Dehparvari | **Aerospace, MSc** | Aerospace, python, , Structural analysis, Vibration
 golshan |lirabi | **Physics BSc**|Physics,Prgramming,biophysics,cosmology
 Sajjad | Mahdizadeh | **PhD candidate** | Experimental Physics, Telescopes, Astronomy
+Hajar | Vakili | **Physics,PhD** | Cosmology, Astrophysics, Data Science |
