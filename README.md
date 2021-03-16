@@ -24,4 +24,5 @@ Masoumeh | Tavakoli | **Physics, PhD** | Physics, AdS/CFT, black hole, Dtat Scie
 Haleh | Hajizadeh | **Physics, MSc** | Astronomy and Cosmology, Data from Telescopes, Programming, Data Science
 Dina | Soltani Tehrani | **Double Majored in Aerospace Eng. and Electrical Eng** | Computational Physics, Numerical Methods, Programming
 Ali | Dehparvari | **Aerospace, MSc** | Aerospace, python, , Structural analysis, Vibration
+golshan |lirabi | **Physics BSc**|Physics,Prgramming,biophysics,cosmology
 Sajjad | Mahdizadeh | **PhD candidate** | Experimental Physics, Telescopes, Astronomy
