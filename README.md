@@ -30,3 +30,4 @@ Hajar | Vakili | **Physics,PhD** | Cosmology, Astrophysics, Data Science |
 Roya | Hamedani Golshan | **Physics, MSc** | Astronomy, Physics, Programming, Data Science
 Saeed | Sarkarati | **Photonics/Physics, PhD** | Physics, Programming, Teaching, Simulation, Boundary Element Method
 Jafar | Khaksar | **Economics, MSc student** | Quantitative Economics, Econometrics, Data Science, Julia 
+Mobin | Moradi | **Physics, BSc** | Physics, Mathematics
