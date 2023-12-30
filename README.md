@@ -32,4 +32,4 @@ Saeed | Sarkarati | **Photonics/Physics, PhD** | Physics, Programming, Teaching,
 Jafar | Khaksar | **Economics, MSc student** | Quantitative Economics, Econometrics, Data Science, Julia 
 Mobin | Moradi | **Physics, BSc** | Physics, Mathematics
 Mehdi | Mirzaie | **Mathematics. Ph.D.** | Data Science, Bioinformatics
-Mohammad | Ebadi | **Associate degree**	 | Programming , Web designing , Cybersecurity , Network 
+Mohammad | Ebadi | **Associate degree**	 | Programming , Web design , Cybersecurity , Networking
